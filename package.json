@@ -1,0 +1,20 @@
+{
+  "name": "zpan_xkey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vyora/zpan_xkey"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vmlv_xid": "^1.0.0",
+    "sbbp_xid": "^1.0.0"
+  }
+}
